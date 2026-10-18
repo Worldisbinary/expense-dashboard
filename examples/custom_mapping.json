@@ -1,0 +1,8 @@
+{
+  "date": "Posted",
+  "description": "Payee",
+  "amount": "Spent",
+  "amount_sign": "debit_positive",
+  "date_format": "%m/%d/%Y",
+  "delimiter": "|"
+}
